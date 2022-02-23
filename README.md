@@ -1,6 +1,6 @@
 <img align="left" width="100" height="100" src="https://github.com/a-chris/achris.me/blob/main/public/resources/avatar.webp">
 
-<h2> Hey there! I'm Christian .</h2>
+<h2> Hey there! I'm Christian</h2>
 <br/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
