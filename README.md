@@ -4,12 +4,12 @@
 <br/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Passionate Fullstack / Backend Developer.
-- 🎓 &nbsp; Bachelor Degree in Engeneering & Computer Science at University of Bologna, Italy.
-- 🛠 &nbsp; I like working on side projects to explore new technologies and build useful things.
-- 🖥 &nbsp; I really like automating things, it makes humans life easier.
-- ✍️ &nbsp; Writing my own blog to share things I learn.
-- 💘 &nbsp; In love with Ruby💎 and Javascript at the moment.
+- 🤔 &nbsp; Passionate Fullstack / Backend Developer
+- 🎓 &nbsp; Bachelor Degree in Engeneering & Computer Science at University of Bologna, Italy
+- 🛠 &nbsp; I like working on side projects to explore new technologies and build useful things
+- 🖥 &nbsp; I really like automating things, it makes humans life easier
+- ✍️ &nbsp; Writing my own blog to share things I learn
+- 💘 &nbsp; In love with Ruby💎 and Javascript at the moment
 
 <h3> 🛠 &nbsp;Backend Stack</h3>
 
