@@ -1,15 +1,15 @@
-<img align="left" width="100" height="100" src="https://github.com/a-chris/achris.me/blob/main/public/resources/avatar.webp">
+<img align="left" width="100" height="100" src="https://achris.me/images/avatar.webp">
 
 <h2> Hey there! I'm Christian</h2>
 <br/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Passionate Fullstack / Backend Developer
+- 🤔 &nbsp; Highly motivated Fullstack / Backend Developer
+- 💘 &nbsp; My preferred language is Ruby💎 but I've also used to work with Javascript, Java, Kotlin and Go!
+- 🛠 &nbsp; Entrepreneuring with my own company 🎯 [ACME CORP](https://acmecorp.dev)
+- 🖥 &nbsp; I really like automating things, makeing humans life easier
+- ✍️ &nbsp; Writing my own blog to share things I learn at [achris.me](https://achris.me)
 - 🎓 &nbsp; Bachelor Degree in Engeneering & Computer Science at University of Bologna, Italy 🇮🇹
-- 🛠 &nbsp; Entrepreneur trying to start my own business
-- 🖥 &nbsp; I really like automating things, it makes humans life easier
-- ✍️ &nbsp; Writing my own blog to share things I learn
-- 💘 &nbsp; In love with Ruby💎 and Javascript at the moment
 
 <h3> 🛠 &nbsp;Backend Stack</h3>
 
@@ -21,6 +21,7 @@
 
 <h3> 🛠 &nbsp;Frontend Stack</h3>
 
+![Hotwire](https://img.shields.io/badge/hotwire-323330?style=for-the-badge&logo=hotwire&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <h3> 🛠 &nbsp;Databases</h3>
@@ -34,6 +35,6 @@
   
  <h3> 🤝🏻 &nbsp;Reach out to me on</h3>
 
- - [My website](https://achris.me)
+ - [achris.me](https://achris.me)
  - [Medium](https://medium.com/@a.christian.toscano)
  - [Twitter](https://twitter.com/a_chris15)
