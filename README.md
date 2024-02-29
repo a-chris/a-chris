@@ -1,13 +1,13 @@
 <img align="left" width="100" height="100" src="https://achris.me/images/avatar.webp">
 
-<h2> Hey there! I'm Christian</h2>
+<h3> Hey there! I'm Christian</h3>
+<p>A passionate Fullstack / Backend Developer</p>
 <br/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Highly motivated Fullstack / Backend Developer
-- 💘 &nbsp; My preferred language is Ruby💎 but I've also used to work with Javascript, Java, Kotlin and Go!
-- 🛠 &nbsp; Entrepreneuring with my own company 🎯 [ACME CORP](https://acmecorp.dev)
 - 🖥 &nbsp; I really like automating things, makeing humans life easier
+- 💘 &nbsp; My preferred language is Ruby💎 but I've also used to work with Python, Javascript, Java, Kotlin and Go!
+- 🛠 &nbsp; Entrepreneuring with my own company 🎯 [ACME CORP](https://acmecorp.dev)
 - ✍️ &nbsp; Writing my own blog to share things I learn at [achris.me](https://achris.me)
 - 🎓 &nbsp; Bachelor Degree in Engeneering & Computer Science at University of Bologna, Italy 🇮🇹
 
