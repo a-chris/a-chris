@@ -1,6 +1,6 @@
 <img align="left" width="100" height="100" src="https://achris.me/images/avatar.webp">
 
-<h3> Hey there! I'm Christian</h3>
+<h3> Hey there! I'm Christian Toscano</h3>
 <p>A passionate Fullstack / Backend Developer</p>
 <br/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
